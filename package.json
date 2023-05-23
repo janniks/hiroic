@@ -1,0 +1,21 @@
+{
+  "name": "hiroic",
+  "displayName": "hiroic",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hiroic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hiroic-color-theme.json"
+      }
+    ]
+  }
+}
